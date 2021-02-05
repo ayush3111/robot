@@ -1,0 +1,46 @@
+body {
+	background-color: lightblue;
+
+}
+h1 {
+	color: Red;
+	margin-left: 360px;
+	font-size: 300%;
+
+}
+.testclass {
+	color: yellow;
+	font-size: 300%;
+
+}
+table {
+	border: 1px solid red;
+	width: 90%;
+}
+td {
+	border: 1px solid black;
+}
+
+#google {
+	float: center;
+	height: 70px;
+}
+#output {
+	color: green;
+	font-size: 300%
+}
+td {
+	border: 1px solid black;
+	text-align: left;
+	padding: 8px;
+
+}
+
+tr:nth-child(even) {
+	background-color: lightgray;
+
+}
+tr:nth-child(odd) {
+	background-color: white;
+
+}
